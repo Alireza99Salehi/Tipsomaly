@@ -1,3 +1,5 @@
+[![Papers with Code: SOTA on VisA (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=31029&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=31029)
+
 # Tipsomaly (ICASSP 2026) — [arXiv](https://arxiv.org/abs/2602.03594) | [IEEE](https://ieeexplore.ieee.org/document/11461758)
 
 Official PyTorch implementation of `TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection` — a spatially-aware zero-shot anomaly detection pipeline built on the [TIPS](https://arxiv.org/abs/2410.16512) vision-language model, using decoupled prompts and local evidence injection to improve image-level and pixel-level performance.
