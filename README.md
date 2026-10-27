@@ -1,5 +1,10 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Try%20the%20live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/AlirezaSalehi99/Tipsomaly)
-[![Papers with Code: SOTA on VisA (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=31029&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=31029)
+
+[![Papers with Code: SOTA on DAGM (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=37136&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=37136)
+[![Papers with Code: SOTA on DTD-Synthetic (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=37139&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=37139)
+[![Papers with Code: SOTA on KolektorSDD (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=37134&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=37134)
+[![Papers with Code: #2 on CVC-ClinicDB (Zero-Shot Cross-Domain)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge.svg?eval=37164&live=1)](https://paperswithcode.co/api/v1/papers/2602.03594/leaderboard-badge-link?eval=37164)
+
 
 # Tipsomaly (ICASSP 2026) — [arXiv](https://arxiv.org/abs/2602.03594) | [IEEE](https://ieeexplore.ieee.org/document/11461758)
 
